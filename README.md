@@ -13,4 +13,4 @@ Aby uzyskać token do API wysyłamy POST na `http://127.0.0.1:8000/api-token-aut
 
 W odpowiedzi otrzymujemy token, aby pobrać dane z API:
 
-`GET http://127.0.0.1:8000/person/<pesel>/ "Authorization: Token XXXXX...."`
+`GET http://127.0.0.1:8000/gov-api/person/<pesel>/ "Authorization: Token XXXXX...."`
