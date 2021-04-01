@@ -8,5 +8,5 @@ router = routers.DefaultRouter()
 router.register(r'person', views.PersonViewSet)
 
 urlpatterns = [
-    path('', include(router.urls)),
+    path('gov-api/', include(router.urls)),
 ]
