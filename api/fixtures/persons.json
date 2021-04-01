@@ -1,82 +1,112 @@
 [
   {
-    "id": 1,
-    "name": "Jan",
-    "surname": "Kowalski",
-    "pesel": "99110323923",
-    "email": "janek@gmail.com",
-    "phone_number": "789456123"
+    "model": "api.person",
+    "pk": 1,
+    "fields": {
+      "name": "Jan",
+      "surname": "Kowalski",
+      "pesel": "99110323923",
+      "email": "janek@gmail.com",
+      "phone_number": "789456123"
+    }
   },
   {
-    "id": 2,
-    "name": "Janina",
-    "surname": "Goździkowa",
-    "pesel": "94040743567",
-    "email": "aaa@aaa.aaa",
-    "phone_number": "676584934"
+    "model": "api.person",
+    "pk": 2,
+    "fields": {
+      "name": "Janina",
+      "surname": "Goździkowa",
+      "pesel": "94040743567",
+      "email": "aaa@aaa.aaa",
+      "phone_number": "676584934"
+    }
   },
   {
-    "id": 3,
-    "name": "Bożena",
-    "surname": "Marciniak",
-    "pesel": "81071149213",
-    "email": "aaa@aaa.aaa",
-    "phone_number": "789456123"
+    "model": "api.person",
+    "pk": 3,
+    "fields": {
+      "name": "Bożena",
+      "surname": "Marciniak",
+      "pesel": "81071149213",
+      "email": "aaa@aaa.aaa",
+      "phone_number": "789456123"
+    }
   },
   {
-    "id": 4,
-    "name": "Krzysztof",
-    "surname": "Mrówka",
-    "pesel": "88101043857",
-    "email": "aaa@aaa.aaa",
-    "phone_number": "678456123"
+    "model": "api.person",
+    "pk": 4,
+    "fields": {
+      "name": "Krzysztof",
+      "surname": "Mrówka",
+      "pesel": "88101043857",
+      "email": "aaa@aaa.aaa",
+      "phone_number": "678456123"
+    }
   },
   {
-    "id": 5,
-    "name": "Anna",
-    "surname": "Zamojska",
-    "pesel": "56111245968",
-    "email": "aaa@aaa.aaa",
-    "phone_number": "767456123"
+    "model": "api.person",
+    "pk": 5,
+    "fields": {
+      "name": "Anna",
+      "surname": "Zamojska",
+      "pesel": "56111245968",
+      "email": "aaa@aaa.aaa",
+      "phone_number": "767456123"
+    }
   },
   {
-    "id": 6,
-    "name": "Alina",
-    "surname": "Żelazna",
-    "pesel": "65030848321",
-    "email": "aaa@aaa.aaa",
-    "phone_number": "789234123"
+    "model": "api.person",
+    "pk": 6,
+    "fields": {
+      "name": "Alina",
+      "surname": "Żelazna",
+      "pesel": "65030848321",
+      "email": "aaa@aaa.aaa",
+      "phone_number": "789234123"
+    }
   },
   {
-    "id": 7,
-    "name": "Janusz",
-    "surname": "Kowalczyk",
-    "pesel": "67070640392",
-    "email": "aaa@aaa.aaa",
-    "phone_number": "789456573"
+    "model": "api.person",
+    "pk": 7,
+    "fields": {
+      "name": "Janusz",
+      "surname": "Kowalczyk",
+      "pesel": "67070640392",
+      "email": "aaa@aaa.aaa",
+      "phone_number": "789456573"
+    }
   },
   {
-    "id": 8,
-    "name": "Juliusz",
-    "surname": "Wysocki",
-    "pesel": "93051149832",
-    "email": "aaa@aaa.aaa",
-    "phone_number": "754656123"
+    "model": "api.person",
+    "pk": 8,
+    "fields": {
+      "name": "Juliusz",
+      "surname": "Wysocki",
+      "pesel": "93051149832",
+      "email": "aaa@aaa.aaa",
+      "phone_number": "754656123"
+    }
   },
   {
-    "id": 9,
-    "name": "Adam",
-    "surname": "Wawrzyniak",
-    "pesel": "87040834965",
-    "email": "aaa@aaa.aaa",
-    "phone_number": "723456123"
+    "model": "api.person",
+    "pk": 9,
+    "fields": {
+      "name": "Adam",
+      "surname": "Wawrzyniak",
+      "pesel": "87040834965",
+      "email": "aaa@aaa.aaa",
+      "phone_number": "723456123"
+    }
   },
   {
-    "id": 10,
-    "name": "Krzysztof",
-    "surname": "Krawiecki",
-    "pesel": "78101134985",
-    "email": "aaa@aaa.aaa",
-    "phone_number": "776556123"
+    "model": "api.person",
+    "pk": 10,
+    "fields": {
+      "name": "Krzysztof",
+      "surname": "Krawiecki",
+      "pesel": "78101134985",
+      "email": "aaa@aaa.aaa",
+      "phone_number": "776556123"
+    }
   }
 ]
